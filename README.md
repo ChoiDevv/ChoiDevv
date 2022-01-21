@@ -6,10 +6,12 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  Hello! <br/>
+  I'm studying Django in Spart-coding Club.<br/><br/>
+  I'm enjoying computer game, but can't play game in these days. Because I'm coding now.<br/>
+  My goal is to success as back-end developer.<br/><br/>
+  and then, I have problem in this commit check table. Don't trust this. That was wrong.<br></br>
+  I'm writing my code book in my blog. Click this site https://ch-oi-story.tistory.com/ or press the button top. thx!<br></br>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=godChoi96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godChoi96&layout=compact&hide_border=true&theme=white)
