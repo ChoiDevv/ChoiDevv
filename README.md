@@ -35,6 +35,6 @@
 
 <br></br>
 
-## *** Personal-Project Repo ***
+## *** Personal-Study Repo ***
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godChoi96&repo=csd)](https://github.com/godchoi96/csd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godChoi96&repo=blog)](https://github.com/godchoi96/blog)<br></br>
